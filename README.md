@@ -1,2 +1,2 @@
-# php-email-with-attachment
-Email with attachment in php
+# Email with attachment in php
+Sending Email with form data with attachment in php mail function.
